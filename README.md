@@ -38,6 +38,32 @@ Se hallaron indicadores como:
 
 • Costo de planilla
 
+## Dataset 
+
+Nos conectamos a la fuente de datos que en este caso es un archivo de Excel donde estan todos los datos de los colaboradores:
+
+•	ID identificador del empleado
+
+•	Nombre
+
+•	Edad
+
+•	Genero
+
+•	Departamento al que pertenecen
+
+•	Nombre de su supervisor
+
+•	Fecha de ingreso a la empresa
+
+•	Salario mensual
+
+•	Nota de su evaluación
+
+•	Nivel de satisfaccion dentro de la organización
+
+•	Las horas de ausencia
+
 
 
 
