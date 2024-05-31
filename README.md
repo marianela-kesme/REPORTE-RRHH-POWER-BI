@@ -22,14 +22,22 @@ Analisis de datos, obtencion de Indicadores y elaboracion de un Dashboard sobre 
 <br/>
 
 ## Obtencion de Indicadores
-El Dashboard que se realizo fue para tener una visión general de la gestión de talento humano con el fin de establecer mejoras dentro del departamento.
+El Dashboard que se realizó fue para tener una visión general de la gestión de talento humano con el fin de establecer mejoras dentro del departamento. 
+
 Se hallaron indicadores como: 
-•	Total del colaboradores por genero en porcentaje y cantidad.
-•	Tiempo  en el cargo(años)
-•	Porcentaje de insatisfacción del personal 
-•	Tasa de ausencia
-•	Promedio de evaluación
-•	Costo de planilla
+
+• Total del colaboradores por género en porcentaje y cantidad. 
+
+• Tiempo en el cargo (años) 
+
+• Porcentaje de insatisfacción del personal 
+
+• Tasa de ausencia 
+
+• Promedio de evaluación 
+
+• Costo de planilla
+
 
 
 
