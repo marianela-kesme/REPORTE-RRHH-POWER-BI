@@ -67,7 +67,8 @@ Nos conectamos a la fuente de datos que en este caso es un archivo de Excel dond
 ## Preliminares 
 Se procedio a importar el dataset llamado Datos y la tabla colaboradores en power BI, realice varias transformaciones en mi conjunto de datos de colaboradores utilizando Power Query. Estas transformaciones incluyen correcciones de mayúsculas y minúsculas para asegurar la consistencia en los datos de texto. Además, he ajustado los tipos de datos a numéricos donde corresponde para facilitar análisis posteriores y asimismo con los datos categoricos. También he corregido errores en el formato de fechas para garantizar la precisión en la visualización y análisis de datos. Hubo la necesidad de añadir 2 columnas mas al dataset llamados Total años(puesto) y la columna grupo edad, estas columnas se crearon con el fin de poder hallar los indicadores que se nos solicito.
 
-![imagen1](C:\Users\maria\OneDrive\Resimler\Ekran Görüntüleri\Captura de pantalla 2024-05-31 155824)
+![imagen1](https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20155824.png)
+
 
 
 
