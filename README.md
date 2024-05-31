@@ -21,7 +21,7 @@ Analisis de datos, obtencion de Indicadores y elaboracion de un Dashboard sobre 
 
 <br/>
 
-## Obtencion de Indicadores     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src= https://cdn-icons-png.flaticon.com/512/7665/7665562.png" alt="Power Bi2" width="35"/>
+## Obtencion de Indicadores     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src= "https://cdn-icons-png.flaticon.com/512/7665/7665562.png" alt="Power Bi2" width="35"/>
 El Dashboard que se realizó fue para tener una visión general de la gestión de talento humano con el fin de establecer mejoras dentro del departamento. 
 
 Se hallaron indicadores como: 
