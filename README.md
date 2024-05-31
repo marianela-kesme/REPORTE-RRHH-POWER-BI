@@ -5,11 +5,8 @@
 
 </div>
 
----
-
-
-
 ### Introduccion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3891/3891613.png" alt="Power Bi2" width="30"/>
+
 
 
 Los recursos humanos son un departamento dentro de las empresas en el que se gestiona todo lo relacionado con las personas que trabajan en ella. Esto incluiría desde el reclutamiento, selección, contratación, onboarding o bienvenida, formación, promoción, nóminas y despidos.
