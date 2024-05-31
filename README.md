@@ -1,6 +1,6 @@
 # Reporte Recursos Humanos Con Power BI                      <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-768x432.png" alt="Power Bi2" width="100"/>
 
-## Introduccion  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3891/3891613.png" alt="Power Bi2" width="30"/>
+## Introduccion  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3891/3891613.png" alt="Power Bi2" width="40"/>
 
 
 Los recursos humanos son un departamento dentro de las empresas en el que se gestiona todo lo relacionado con las personas que trabajan en ella. Esto incluiría desde el reclutamiento, selección, contratación, onboarding o bienvenida, formación, promoción, nóminas y despidos.
