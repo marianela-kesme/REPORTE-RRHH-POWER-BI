@@ -16,7 +16,7 @@ A través de la Administración de Recursos Humanos, se puede identificar, compr
 
 <br/>
 
-##  Objetivo
+##  Objetivo   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://cdn-icons-png.flaticon.com/512/6821/6821002.png"/>
 Analisis de datos, obtencion de Indicadores y elaboracion de un Dashboard sobre Recursos Humanos de una empresa peruana.
 
 <br/>
