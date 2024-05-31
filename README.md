@@ -5,7 +5,9 @@
 
 </div>
 
-### Introduccion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3891/3891613.png" alt="Power Bi2" width="30"/>
+### Introduccion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn-icons-png.flaticon.com/512/3891/3891613.png" alt="Power Bi2" width="30"/>
 
 
 
