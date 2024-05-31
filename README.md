@@ -38,7 +38,7 @@ Se hallaron indicadores como:
 
 • Costo de planilla
 
-## Dataset 
+## Dataset   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src= "https://c0.klipartz.com/pngpicture/619/922/gratis-png-microsoft-excel-ilustracion-microsoft-excel-microsoft-office-macos-excel-thumbnail.png" alt="Power Bi2" width="35"/>
 
 Nos conectamos a la fuente de datos que en este caso es un archivo de Excel donde estan todos los datos de los colaboradores:
 
