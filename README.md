@@ -106,4 +106,10 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 <br/>
 
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162859.png" alt="Descripción de la imagen" width="400">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162859.png" alt="Descripción de la imagen" width="600">
+
+<br/>
+
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162938.png" alt="Descripción de la imagen" width="600">
+
+
