@@ -95,16 +95,13 @@ total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculi
 <br/>
 
 ### medida para hallar el tiempo en el cargo en años:
-<br/>
 Tiempo en el cargo(años) = DIVIDE(SUM(colaboradores[Total años (puesto)]), [total colaboradores],0) 
 
 ### medida para hallar el porcentaje de insatisfaccion del personal:
-<br/>
 % personal insatisfecho = DIVIDE([total insatisfechos],[Total colaboradores],0)
 <br/>
 
 ### Medida para hallar la tasa de ausencia:
-<br/>
 Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 <br/>
