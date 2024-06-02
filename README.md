@@ -76,3 +76,13 @@ Se procedio a calcular mediante DAX las medidas para hallar los indicadores
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/raw/main/datos/Captura%20de%20pantalla%202024-05-31%20162550.png" alt="imagen1" width="200"/>
 
 
+<br/>
+Total colaboradores = COUNTA( colaboradores [Nombre Empleado])  
+<br/>
+total mujeres = CALCULATE([Total colaboradores],colaboradores[Género] ="femenino")
+<br/>
+total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculino")
+<br/>
+%mujeres = DIVIDE([total mujeres],[Total colaboradores],0)
+<br/>
+%varones = DIVIDE([total varones],[Total colaboradores],0)
