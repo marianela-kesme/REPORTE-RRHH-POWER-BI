@@ -89,6 +89,7 @@ total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculi
 <br/>
 %varones = DIVIDE([total varones],[Total colaboradores],0)
 <br/>
+<br/>
 
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162925.png" alt="Descripción de la imagen" width="200">
 <br/>
