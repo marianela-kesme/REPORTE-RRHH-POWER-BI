@@ -91,7 +91,10 @@ total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculi
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162925.png" alt="Descripción de la imagen" width="300">
 <br/>
+
 ### medida para hallar el tiempo en el cargo en años:
+
 <br/>
 Tiempo en el cargo(años) = DIVIDE(SUM(colaboradores[Total años (puesto)]), [total colaboradores],0) 
 <br/>
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162859.png" alt="Descripción de la imagen" width="200">
