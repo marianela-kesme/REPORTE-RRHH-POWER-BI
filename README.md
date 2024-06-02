@@ -74,8 +74,8 @@ Se procedio a importar el dataset llamado Datos y la tabla colaboradores en powe
 Se procedio a calcular mediante DAX las medidas para hallar los indicadores
 
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/raw/main/datos/Captura%20de%20pantalla%202024-05-31%20162550.png" alt="imagen1" width="200"/>
-
-
+<br/>
+# Medida para hallar el Total del colaboradores por género en porcentaje y cantidad:
 <br/>
 Total colaboradores = COUNTA( colaboradores [Nombre Empleado])  
 <br/>
