@@ -77,7 +77,7 @@ Se procedio a calcular mediante DAX las medidas para hallar los indicadores
 
 <br/>
 
-###  Medida para hallar el Total del colaboradores por género en porcentaje y cantidad:
+Medida para hallar el Total del colaboradores por género en porcentaje y cantidad:
 
 <br/>
 Total colaboradores = COUNTA( colaboradores [Nombre Empleado])  
@@ -95,14 +95,14 @@ total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculi
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/porcentaje.png" alt="Descripción de la imagen" width="200">
 <br/>
 
-### medida para hallar el tiempo en el cargo en años:
+ medida para hallar el tiempo en el cargo en años:
 Tiempo en el cargo(años) = DIVIDE(SUM(colaboradores[Total años (puesto)]), [total colaboradores],0) 
 
-### medida para hallar el porcentaje de insatisfaccion del personal:
+ medida para hallar el porcentaje de insatisfaccion del personal:
 % personal insatisfecho = DIVIDE([total insatisfechos],[Total colaboradores],0)
 <br/>
 
-### Medida para hallar la tasa de ausencia:
+Medida para hallar la tasa de ausencia:
 Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 <br/>
@@ -115,22 +115,22 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 <br/>
 
-### luego, se procedio a realizar los graficos que se solicitaron para saber total de colaboradores por departamento, donde se observa que el area de Produccion es el que mas cantidad de colaboradores posee.
+luego, se procedio a realizar los graficos que se solicitaron para saber total de colaboradores por departamento, donde se observa que el area de Produccion es el que mas cantidad de colaboradores posee.
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20depto.png" alt="Descripción de la imagen" width="300">
 
-### Asimismo, examinamos mediante un grafico de barras  horizontales  el total de colaboradores segun grupo etareo y pudimos observar que tenemos mayor cantidad de colaboradores cuyas edades estan comprendidas entre  30 y 50 años 
+Asimismo, examinamos mediante un grafico de barras  horizontales  el total de colaboradores segun grupo etareo y pudimos observar que tenemos mayor cantidad de colaboradores cuyas edades estan comprendidas entre  30 y 50 años 
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20grup%20edad.png" alt="Descripción de la imagen" width="300">
 
-### Tambien , mediante  un Gráfico de Treemap pudimos ver la Cantidad de Colaboradores por Supervisor en donde Arthur,Tamara y Julie son los que mas colaboradores tienen a su cargo
+ Tambien , mediante  un Gráfico de Treemap pudimos ver la Cantidad de Colaboradores por Supervisor en donde Arthur,Tamara y Julie son los que mas colaboradores tienen a su cargo
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20supervisor.png" alt="Descripción de la imagen" width="300">
 
-### Entonces, para visualizar  el analisis de los indicadores por Departamento  se utilizo una matriz
+ Entonces, para visualizar  el analisis de los indicadores por Departamento  se utilizo una matriz
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/analisis%20depto.png" alt="Descripción de la imagen" width="500">
 
-### Finalmente para ver la relacion entre el sueldo y la edad de los colaboradores hicimos un grafico de dispersion
+ Finalmente para ver la relacion entre el sueldo y la edad de los colaboradores hicimos un grafico de dispersion
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/relacion%20sueldo.png" alt="Descripción de la imagen" width="300">
