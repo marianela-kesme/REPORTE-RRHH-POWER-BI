@@ -1,5 +1,3 @@
-<img src="https://camo.githubusercontent.com/7ea889f48c116b2ee694a8f93ef4cd2a99c89651964e45a5e818a6b600e949b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d677261793f7374796c653d666c6174266c6f676f3d706f7765726269" alt="Encabezado" style="display: block; margin: 0 auto; width: 10%;">
-
 
 
 <div align="center">
@@ -66,6 +64,8 @@ Nos conectamos a la fuente de datos que en este caso es un archivo de Excel dond
 •	Nivel de satisfaccion dentro de la organización
 
 •	Las horas de ausencia
+
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/Dashboard%20RRHH.png" alt="imagen1" width="800"/>
 
 ## Preliminares 
 Se procedio a importar el dataset llamado Datos y la tabla colaboradores en power BI, realice varias transformaciones en mi conjunto de datos de colaboradores utilizando Power Query. Estas transformaciones incluyen correcciones de mayúsculas y minúsculas para asegurar la consistencia en los datos de texto. Además, he ajustado los tipos de datos a numéricos donde corresponde para facilitar análisis posteriores y asimismo con los datos categoricos. También he corregido errores en el formato de fechas para garantizar la precisión en la visualización y análisis de datos. Hubo la necesidad de añadir 2 columnas mas al dataset llamados Total años(puesto) y la columna grupo edad, estas columnas se crearon con el fin de poder hallar los indicadores que se nos solicito.
