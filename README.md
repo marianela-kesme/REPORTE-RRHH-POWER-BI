@@ -142,3 +142,9 @@ Asimismo, examinamos mediante un grafico de barras  horizontales  el total de co
  
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/relacion%20sueldo.png" alt="Descripción de la imagen" width="300">
+
+
+<br/>
+
+gradecimiento a  <img src="https://yt3.googleusercontent.com/KDK08HHbEeuHhmFOg5pADA28IcK4V8PiIzDtVYvMuDSH1luJhRzTubrMVoefrRZ5NySApWFd=s900-c-k-c0x00ffffff-no-rj"
+
