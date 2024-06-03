@@ -124,13 +124,16 @@ Asimismo, examinamos mediante un grafico de barras  horizontales  el total de co
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20grup%20edad.png" alt="Descripción de la imagen" width="300">
 
  Tambien , mediante  un Gráfico de Treemap pudimos ver la Cantidad de Colaboradores por Supervisor en donde Arthur,Tamara y Julie son los que mas colaboradores tienen a su cargo
+ 
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20supervisor.png" alt="Descripción de la imagen" width="300">
 
  Entonces, para visualizar  el analisis de los indicadores por Departamento  se utilizo una matriz
+ 
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/analisis%20depto.png" alt="Descripción de la imagen" width="500">
 
  Finalmente para ver la relacion entre el sueldo y la edad de los colaboradores hicimos un grafico de dispersion
+ 
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/relacion%20sueldo.png" alt="Descripción de la imagen" width="300">
