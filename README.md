@@ -92,7 +92,7 @@ total varones = CALCULATE([Total colaboradores],colaboradores[Género] ="Masculi
 <br/>
 <br/>
 
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162925.png" alt="Descripción de la imagen" width="200">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/porcentaje.png" alt="Descripción de la imagen" width="200">
 <br/>
 
 ### medida para hallar el tiempo en el cargo en años:
@@ -107,15 +107,16 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 <br/>
 
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162859.png" alt="Descripción de la imagen" width="600">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/tasa%20ausencia.png" alt="Descripción de la imagen" width="600">
 
 <br/>
 
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162938.png" alt="Descripción de la imagen" width="200">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/promedio%20edad.png" alt="Descripción de la imagen" width="200">
 
 <br/>
 
 ### luego, se procedio a realizar los graficos que se solicitaron para saber total de colaboradores por departamento, donde se observa que el area de Produccion es el que mas cantidad de colaboradores posee.
 <br/>
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/Captura%20de%20pantalla%202024-05-31%20162955.png" alt="Descripción de la imagen" width="300">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20depto.png" alt="Descripción de la imagen" width="300">
+
 
