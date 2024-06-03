@@ -116,10 +116,12 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 <br/>
 
 luego, se procedio a realizar los graficos que se solicitaron para saber total de colaboradores por departamento, donde se observa que el area de Produccion es el que mas cantidad de colaboradores posee.
+
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20depto.png" alt="Descripción de la imagen" width="300">
 
 Asimismo, examinamos mediante un grafico de barras  horizontales  el total de colaboradores segun grupo etareo y pudimos observar que tenemos mayor cantidad de colaboradores cuyas edades estan comprendidas entre  30 y 50 años 
+
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20grup%20edad.png" alt="Descripción de la imagen" width="300">
 
