@@ -119,4 +119,10 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 <br/>
 <img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20depto.png" alt="Descripción de la imagen" width="300">
 
+### Asimismo, examinamos mediante un grafico de barras  horizontales  el total de colaboradores segun grupo etareo y pudimos observar que tenemos mayor cantidad de colaboradores cuyas edades estan comprendidas entre  30 y 50 años 
+<br/>
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20grup%20edad.png" alt="Descripción de la imagen" width="300">
 
+### Tambien , mediante  un Gráfico de Treemap pudimos ver la Cantidad de Colaboradores por Supervisor en donde Arthur,Tamara y Julie son los que mas colaboradores tienen a su cargo
+<br/>
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/colab%20supervisor.png" alt="Descripción de la imagen" width="300">
