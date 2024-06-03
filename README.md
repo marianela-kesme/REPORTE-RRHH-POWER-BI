@@ -146,5 +146,7 @@ Asimismo, examinamos mediante un grafico de barras  horizontales  el total de co
 
 <br/>
 
-gradecimiento a  <img src="https://yt3.googleusercontent.com/KDK08HHbEeuHhmFOg5pADA28IcK4V8PiIzDtVYvMuDSH1luJhRzTubrMVoefrRZ5NySApWFd=s900-c-k-c0x00ffffff-no-rj"
+Agradecimiento a <img src="https://yt3.googleusercontent.com/KDK08HHbEeuHhmFOg5pADA28IcK4V8PiIzDtVYvMuDSH1luJhRzTubrMVoefrRZ5NySApWFd=s900-c-k-c0x00ffffff-no-rj" alt="Encabezado" style="display: block; margin: 0 auto; width: 150px;">
+
+
 
