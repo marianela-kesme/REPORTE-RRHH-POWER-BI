@@ -129,7 +129,7 @@ Tasa Ausencia = [#Total horas ausentismo]/[#total horas planificadas]
 
 ### Entonces, para visualizar  el analisis de los indicadores por Departamento  se utilizo una matriz
 <br/>
-<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/analisis%20depto.png" alt="Descripción de la imagen" width="300">
+<img src="https://github.com/marianela-kesme/REPORTE-RRHH-POWER-BI/blob/main/datos/analisis%20depto.png" alt="Descripción de la imagen" width="500">
 
 ### Finalmente para ver la relacion entre el sueldo y la edad de los colaboradores hicimos un grafico de dispersion
 <br/>
